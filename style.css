@@ -1,0 +1,125 @@
+body{
+    background-color: #131312;
+    font-family:monospace;
+    color: aliceblue;
+}
+
+.one{
+    padding-left: 2%;
+    font-size: 20px;
+    background-color:#353533;
+    width: 350px;
+    height: auto;
+    border-radius: 25px;
+}
+.two {
+    padding-left: 2%;
+    font-size: 18px;
+    background-color:#353533;
+    width: 350px;
+    height: 250px;
+    border-radius: 25px;
+}
+.sub_div{
+    padding-left: 1%;
+    background-color: #252524;
+    width: 300px;
+    height: 150px;
+    color: white;
+    border-radius: 5px;
+}
+.header{
+    position: absolute;
+    left: 400px;
+    top:5px;
+    width:1115px;
+    margin-top: 8px;
+}
+.right_btn_div{
+    display: inline;
+    position: absolute;
+    left: 950px;
+}
+.btn_left {
+    height: 50px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    width: 75px;
+    border: none;
+}
+.btn_right{
+    height: 50px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    width: 75px;
+    border: none;
+}
+.btn_sign{
+    height: 50px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    width: 75px;
+    border: none;
+}
+.btn_login{
+    height: 50px;
+    border-radius: 15px;
+    width: 75px;
+    border: none;
+}
+.anhor_btn{
+    color: white;
+    text-decoration: none;
+}
+.main {
+    position: absolute;
+    left: 400px;
+    top:90px;
+    /* border: 3px solid #73AD21; */
+    width: 1120px;
+    height: auto;
+  
+}
+.playlist_container{
+    padding-bottom: 15px;
+    padding-left: 5px;
+    display: flex;
+}
+.song_card_1{
+    /* border: 3px solid #73AD21; */
+    width: 250px;
+    height: 250px;
+    margin-left: 15px;
+}
+.song_card_2{
+    /* border: 3px solid #73AD21; */
+    width: 250px;
+    height: 250px;
+    margin-left: 15px;
+}
+.song_card_3{
+    /* border: 3px solid #73AD21; */
+    width: 250px;
+    height: 250px;
+    margin-left: 15px;
+}
+.song_card_4{
+    /* border: 3px solid #73AD21; */
+    width: 250px;
+    height: 250px;
+    margin-left: 15px;
+}
+.sub_heading{
+font-size: 30px;
+margin-left: 18px;
+margin-top: -5px;
+}
+.btn_cp{
+    height: 40px;
+    border-radius: 15px;
+    width: 110px;
+    border: none;
+}
